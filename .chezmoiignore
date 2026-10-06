@@ -1,0 +1,11 @@
+# Ignore package backup lists and configuration files
+baseline-official.txt
+baseline-foreign.txt
+user-official.txt
+user-foreign.txt
+flatpak-packages.txt
+pip-packages.txt
+cargo-packages.txt
+npm-packages.txt
+config
+.cachyos-kde-profile.hash

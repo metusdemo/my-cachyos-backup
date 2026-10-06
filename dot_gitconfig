@@ -1,0 +1,5 @@
+[credential]
+	helper = store
+[user]
+	name = metusdemo
+	email = https://github.com/metusdemo/my-cachyos-backup.git
